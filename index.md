@@ -7,6 +7,7 @@
 **circuit without switch**
 
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-09%2012-06-44.png)
-## day 3
+
 
 **circuit with switch**
+![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2014-09-26.png)
