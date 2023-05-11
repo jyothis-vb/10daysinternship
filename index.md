@@ -13,6 +13,16 @@
 3. for continues numbering for the lines add the number with dot(1.) enter
 4. write a program/code for copy -write the program in side backdot (```program```)
 
+ ```
+ #include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+
+
+
 ## day 2
 
 **circuit without switch**
