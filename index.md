@@ -48,3 +48,6 @@ int main() {
 
 3. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
 4. make a led light citcuit using arduino
+5.make arduino with two led circuit
+![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2012-54-01.png)
+
