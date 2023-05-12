@@ -42,8 +42,9 @@ int main() {
 
 # Day-3
 
-> AND GATE using Tinkercad
+> AND GATE using Tinkercad 
 1. collect the components that switch,led,resistor,powersupply,bread board 
+![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2010-23-57.png)
 
 3. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
 4. make a led light citcuit using arduino
