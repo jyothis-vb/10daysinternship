@@ -46,10 +46,10 @@ int main() {
 1. collect the components that switch,led,resistor,powersupply,bread board 
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2010-23-57.png)
 
-3. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
-
-4. make a led light citcuit using arduino
+2. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
+3. make a led light citcuit using arduino
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2011-18-32.png)
-5.make arduino with two led circuit
+
+4.make arduino with two led circuit
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2012-54-01.png)
 
