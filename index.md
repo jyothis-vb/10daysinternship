@@ -26,10 +26,24 @@ int main() {
 
 ## day 2
 
+>Creating circuit using Thinkercad
+1. creating a circuit using tinkercad simulator tool
+2. [Thinkercad Tool](https://www.tinkercad.com/)
+3. created a simple led circuit using various components
+
 # circuit without switch
+
 
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-09%2012-06-44.png)
 
 
 # circuit with switch 
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2014-09-26.png)
+
+# Day-3
+
+> AND GATE using Tinkercad
+1. collect the components that switch,led,resistor,powersupply,bread board 
+
+3. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
+4. make a led light citcuit using arduino
