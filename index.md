@@ -89,5 +89,41 @@ void loop()
   digitalWrite(12, LOW);
   delay(50); // Wait for 1000 millisecond(s)
 }  
-
 ```
+5.**4 led ciruit with aurdino**
+![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-12%2009-57-53.png)
+## program ##
+```
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(12,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(10,OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(200); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(12, LOW);
+  delay(400); // Wait for 1000 millisecond(s)
+  digitalWrite(11, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(11, LOW);
+  delay(200); // Wait for 1000 millisecond(s)
+  digitalWrite(10, HIGH);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(10, LOW);
+  delay(300); // Wait for 1000 millisecond(s)
+ 
+  
+}
+```
+
+
