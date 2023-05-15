@@ -127,6 +127,6 @@ void loop()
 ```
 # Day-4
 > introduction to AI & ML
-1. Introduced a programming platform named as
+1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly)
 ![no image]()
 
