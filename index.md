@@ -68,6 +68,7 @@ void loop()
 ```
 4.make arduino with two led circuit
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2012-54-01.png)
+## program ##
 ```
 // C++ code
 //
