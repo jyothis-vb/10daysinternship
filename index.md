@@ -128,5 +128,5 @@ void loop()
 # Day-4
 > introduction to AI & ML
 1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly)
-![no image]()
+![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-15%2014-31-46.png)
 
