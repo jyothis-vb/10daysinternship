@@ -49,7 +49,44 @@ int main() {
 2. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
 3. make a led light citcuit using arduino
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2011-18-32.png)
-
+**program**
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot 2023-05-11 at 11-33-09 Circuit design Tremendous Jarv Tinkercad.png
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
 4.make arduino with two led circuit
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2012-54-01.png)
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(12, OUTPUT);
+}
 
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(200); // Wait for 1000 millisecond(s) 
+  digitalWrite(12, HIGH);
+  delay(50); // Wait for 1000 millisecond(s)
+  digitalWrite(12, LOW);
+  delay(50); // Wait for 1000 millisecond(s)
+}  
+
+```
