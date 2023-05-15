@@ -129,4 +129,7 @@ void loop()
 > introduction to AI & ML
 1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly)
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-15%2014-31-46.png)
-
+2. The platform like Blockly are mostly used by  fresher's in programming
+3. It's like a game 
+4. The blockly helps to know about the programming easly
+5. To create a multifunction program like a calculator
