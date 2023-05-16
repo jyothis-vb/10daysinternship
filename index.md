@@ -27,9 +27,9 @@ int main() {
 ## day 2
 
 >Creating circuit using Thinkercad
-1. creating a circuit using tinkercad simulator tool
-2. [Thinkercad Tool](https://www.tinkercad.com/)
-3. created a simple led circuit using various components
+1.creating a circuit using tinkercad simulator tool
+2.[Thinkercad Tool](https://www.tinkercad.com/)
+3.created a simple led circuit using various components
 
 # circuit without switch
 
@@ -43,11 +43,13 @@ int main() {
 # Day-3
 
 > AND GATE using Tinkercad 
-1. collect the components that switch,led,resistor,powersupply,bread board 
+1.**collect the components that switch,led,resistor,powersupply,bread board**
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2010-23-57.png)
 
-2. introduced new website to know easily about arduino circuits [circuito.io](https://www.circuito.io/)
-3. make a led light citcuit using arduino
+2.**introduced new website to know easily about arduino circuits** 
+[circuito.io](https://www.circuito.io/)
+
+3.**make a led light citcuit using arduino**
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2011-18-32.png)
 **program**
 ```
@@ -66,7 +68,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
-4.make arduino with two led circuit
+4.**make arduino with two led circuit**
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2012-54-01.png)
 ## program ##
 ```
@@ -125,6 +127,8 @@ void loop()
   
 }
 ```
+6.7 segment display with arduino thinkercad
+
 # Day-4
 > introduction to AI & ML
 1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly)
