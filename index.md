@@ -150,3 +150,9 @@ void loop()
 2. Can program th board by nucleo software
 3. it can build a sound detecting device by using microphone sensor 
 
+# Day-5
+> Introducing drones by NAVANEETH 3rd year student of robotics
+1. Introducing Drones
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+
