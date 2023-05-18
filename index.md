@@ -27,8 +27,11 @@ int main() {
 ## day 2
 
 >Creating circuit using Thinkercad
+
 1.creating a circuit using tinkercad simulator tool
+
 2.[Thinkercad Tool](https://www.tinkercad.com/)
+
 3.created a simple led circuit using various components
 
 # circuit without switch
@@ -43,6 +46,7 @@ int main() {
 # Day-3
 
 > AND GATE using Tinkercad 
+
 1.**collect the components that switch,led,resistor,powersupply,bread board**
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-11%2010-23-57.png)
 
@@ -138,4 +142,11 @@ void loop()
 4. The blockly helps to know about the programming easly
 5. To create a multifunction program like a calculator
 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%20from%202023-05-12%2012-51-46.png)
+
 > STM 32 NUCLEO DEVELOPMENT BOARD
+
+![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/index.jpeg)
+1. the board is programmeble
+2. Can program th board by nucleo software
+3. it can build a sound detecting device by using microphone sensor 
+
