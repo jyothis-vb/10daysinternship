@@ -151,5 +151,6 @@ void loop()
 1. Introducing Drones
 2. explained about drones parts
 3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
-![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%202023-05-16%20at%2009-28-33%20mission%20planner%20-%20Google%20Search.png)
+4. To config the drones with software named as mission planner![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%202023-05-16%20at%2009-28-33%20mission%20planner%20-%20Google%20Search.png)
+> Analog reader potentiometer
 
