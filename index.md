@@ -154,3 +154,17 @@ void loop()
 4. To config the drones with software named as mission planner![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Screenshot%202023-05-16%20at%2009-28-33%20mission%20planner%20-%20Google%20Search.png)
 > Analog reader potentiometer
 
+![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/Capture.PNG)
+```
+const int potpin=A0;
+
+void setup() {
+   Serial.begin(9600);
+}
+void loop() {
+  int potValue =analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
+}
+```
+
