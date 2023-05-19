@@ -179,6 +179,6 @@ void loop() {
 
 # Day-7
 > Introduced the yaskawa arm robot
-1. The introduction of yaskawa AR1440 
+1. The introduction of yaskawa AR1440 ![no image](https://github.com/jyothis-vb/10daysinternship/blob/main/IMAGE/gp25yaskawa.jpg)
 
 
