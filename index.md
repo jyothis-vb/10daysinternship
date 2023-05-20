@@ -289,7 +289,10 @@ void loop()
   delay(potValue); // Wait for 1000 millisecond(s)
 }
 ```
+# Day-9
+> Arduino interface LCD
 
+introduced the arduino interface with various components 
 
 
 
