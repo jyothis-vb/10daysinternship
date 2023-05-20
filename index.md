@@ -292,8 +292,13 @@ void loop()
 # Day-9
 > Arduino interface LCD
 
-introduced the arduino interface with various components 
+introduced the arduino interface with various components
 
+# Day-10
+> mini project 
+**my  project was a Design a Quiz buzzer**
+[link](https://www.tinkercad.com/things/6Xa7QyjaUWb-ingenious-rottis-kup/editel)
+[assingment](https://www.tinkercad.com/things/67ikmpxghy3-copy-of-superman-keychain/edit)
 
 
 
